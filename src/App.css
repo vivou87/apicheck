@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.Home-container {
+    background-color: rgb(19, 19, 19);
+    background-image: url(https://thumbs.gfycat.com/EllipticalCostlyChrysomelid-size_restricted.gif);
+    background-size: cover;
+    background-repeat:no-repeat ;
+    color: rgba(205, 205, 205, 0.502);
+    text-align: center;
+    text-decoration:dotted;   
+    min-height: 640px;
+
+    
+}
